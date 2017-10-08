@@ -2,7 +2,7 @@ package v1;
 
 import javax.swing.*;
 
-import v1.controls.MyHintTextField;
+import v1.components.MyHintTextField;
 import v1.listener.MyDocumentListener;
 import v1.listener.MyListener;
 import v1.listener.MyMouseListener;

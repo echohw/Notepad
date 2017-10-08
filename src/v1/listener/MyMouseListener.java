@@ -11,7 +11,7 @@ import javax.swing.JLabel;
 
 import v1.Notepad;
 import v1.UI;
-import v1.controls.MyListTextField;
+import v1.components.MyListTextField;
 import v1.utils.MyUtils;
 
 

@@ -1,4 +1,4 @@
-package v1.controls;
+package v1.components;
 
 import java.awt.event.FocusEvent;
 import java.awt.event.FocusListener;

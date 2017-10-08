@@ -1,4 +1,4 @@
-package v1.controls;
+package v1.components;
 
 
 import java.util.StringTokenizer;

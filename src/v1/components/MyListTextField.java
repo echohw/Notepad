@@ -1,4 +1,4 @@
-package v1.controls;
+package v1.components;
 
 import javax.swing.JTextField;
 import javax.swing.text.Document;
