@@ -7,7 +7,7 @@
 			<visible>true</visible>
 			<checkBox>
 				<fileNameCheck>true</fileNameCheck>
-				<fileContentCheck>false</fileContentCheck>
+				<fileContentCheck>true</fileContentCheck>
 				<matchCaseCheck>false</matchCaseCheck>
 			</checkBox>
 			<hintTextField>

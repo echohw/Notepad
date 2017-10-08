@@ -6,10 +6,10 @@
     <width>600</width>  
     <height>800</height>  
     <centerTopPanel> 
-      <visible>false</visible>  
+      <visible>true</visible>  
       <checkBox> 
         <fileNameCheck>true</fileNameCheck>  
-        <fileContentCheck>false</fileContentCheck>  
+        <fileContentCheck>true</fileContentCheck>  
         <matchCaseCheck>false</matchCaseCheck> 
       </checkBox>  
       <hintTextField> 
