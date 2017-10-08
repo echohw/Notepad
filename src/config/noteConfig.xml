@@ -1,0 +1,23 @@
+<noteConfig>
+	<forms>
+		<location x="660" y="140"></location>
+		<width>600</width>
+		<height>800</height>
+		<centerTopPanel>
+			<visible>true</visible>
+			<checkBox>
+				<fileNameCheck>true</fileNameCheck>
+				<fileContentCheck>false</fileContentCheck>
+				<matchCaseCheck>false</matchCaseCheck>
+			</checkBox>
+			<hintTextField>
+		      	<filterField>\.java||fileContent</filterField>
+		      	<filePathField>D:\WorkSpace</filePathField>
+      		</hintTextField>
+      		<leftPanelBase>
+      			<dividerLocation>100</dividerLocation>
+      		</leftPanelBase>
+		</centerTopPanel>
+	</forms>
+</noteConfig>
+
